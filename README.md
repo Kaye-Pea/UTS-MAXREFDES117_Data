@@ -1,2 +1,3 @@
 # UTS-MAXREFDES117_Data
-University Capstone Project using the MAXREFDES117 PPG sensor
+University Capstone Project Biosensors for BLV smart Glasses
+Repo for communicating with MAXREFDES117 PPG sensor to Arduino Uno.
